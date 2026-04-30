@@ -1,71 +1,110 @@
 <div align="center">
 
-# Abdulaziz Abdujalilov
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:0f766e,100:f59e0b&text=Abdulaziz%20Balu&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=AI%20Specialist%20%7C%20Full-Stack%20Developer%20%7C%20Digital%20Media%20Strategist&descSize=18&descAlignY=60&animation=fadeIn" alt="Abdulaziz Balu banner" />
 
-### AI Specialist & Full-Stack Developer | Digital Media Strategist
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=I+build+AI+tools+that+feel+useful%2C+not+random.;Full-stack+products+%2B+automation+%2B+media+strategy.;Code+for+systems.+Creativity+for+attention.;Based+in+Tashkent.+Building+for+the+internet." alt="Typing SVG" />
 
-Building smart solutions with code, creativity, automation, and practical AI workflows.
+<br />
 
-[![GitHub followers](https://img.shields.io/github/followers/abdulazizbalu?style=for-the-badge&label=Followers&color=0ea5e9)](https://github.com/abdulazizbalu)
-[![Profile views](https://komarev.com/ghpvc/?username=abdulazizbalu&style=for-the-badge&color=0ea5e9)](https://github.com/abdulazizbalu)
-[![Email](https://img.shields.io/badge/Email-Abdushkin2001%40gmail.com-ef4444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Abdushkin2001@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/abdulazizbalu?style=for-the-badge&label=Followers&color=0ea5e9&labelColor=020617)](https://github.com/abdulazizbalu)
+[![Profile views](https://komarev.com/ghpvc/?username=abdulazizbalu&style=for-the-badge&color=0ea5e9&label=Profile%20views)](https://github.com/abdulazizbalu)
+[![Status](https://img.shields.io/badge/Status-Building%20smart%20solutions-22c55e?style=for-the-badge&labelColor=020617)](https://github.com/abdulazizbalu)
 
 </div>
 
 ---
 
-## What I Build
-
-I work at the intersection of **AI systems**, **full-stack products**, and **digital media strategy**. My focus is not only writing code, but turning ideas into useful systems: bots, dashboards, automation tools, content workflows, and AI-assisted products.
+## Who I Am
 
 ```txt
-AI Specialist            -> prompts, agents, automation, RAG-style workflows
-Full-Stack Developer     -> frontend, backend, APIs, databases, deployment
-Digital Media Strategist -> content systems, analytics, campaigns, creator tools
+name      Abdulaziz Abdujalilov, aka Balu
+role      AI Specialist + Full-Stack Developer + Digital Media Strategist
+style     practical systems, clean interfaces, sharp content ideas
+mission   build tools that save time, explain ideas clearly, and look alive
+location  Tashkent, Uzbekistan
 ```
+
+I like projects where code is not just code. The best work has three parts: a useful system, a clean product experience, and a story people can understand fast.
 
 ## Featured Portfolio
 
-| Project | Complexity | What it proves |
-| --- | --- | --- |
-| [AI Prompt Studio](https://github.com/abdulazizbalu/ai-prompt-studio) | Beginner-friendly AI tool | Prompt engineering, UX thinking, browser app logic |
-| [Media Command Center](https://github.com/abdulazizbalu/media-command-center) | Strategy dashboard | Content planning, prioritization, campaign thinking |
-| [Creator Insight Pipeline](https://github.com/abdulazizbalu/creator-insight-pipeline) | Data/analytics utility | Metrics analysis, recommendations, clean JS modules |
-| [Smart Support Agent API](https://github.com/abdulazizbalu/smart-support-agent-api) | Backend AI service | HTTP API, intent detection, support automation |
-| [AI Campaign Orchestrator](https://github.com/abdulazizbalu/ai-campaign-orchestrator) | Advanced product engine | Multi-channel planning, AI task orchestration, product architecture |
+<table>
+  <tr>
+    <td width="50%">
+      <h3>AI Prompt Studio</h3>
+      <p>Prompt engineering studio for turning rough ideas into structured AI prompts.</p>
+      <p><a href="https://abdulazizbalu.github.io/ai-prompt-studio/">Live demo</a> | <a href="https://github.com/abdulazizbalu/ai-prompt-studio">Code</a></p>
+    </td>
+    <td width="50%">
+      <h3>Media Command Center</h3>
+      <p>Creator strategy dashboard for ranking ideas and planning campaign weeks.</p>
+      <p><a href="https://abdulazizbalu.github.io/media-command-center/">Live demo</a> | <a href="https://github.com/abdulazizbalu/media-command-center">Code</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Creator Insight Pipeline</h3>
+      <p>Analytics pipeline that turns views, saves, and shares into content decisions.</p>
+      <p><a href="https://abdulazizbalu.github.io/creator-insight-pipeline/">Live demo</a> | <a href="https://github.com/abdulazizbalu/creator-insight-pipeline">Code</a></p>
+    </td>
+    <td width="50%">
+      <h3>Smart Support Agent API</h3>
+      <p>Node.js support agent API with intent routing and useful fallback answers.</p>
+      <p><a href="https://abdulazizbalu.github.io/smart-support-agent-api/">Live demo</a> | <a href="https://github.com/abdulazizbalu/smart-support-agent-api">Code</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>AI Campaign Orchestrator</h3>
+      <p>Campaign engine that converts a business goal into AI-ready multi-channel tasks.</p>
+      <p><a href="https://abdulazizbalu.github.io/ai-campaign-orchestrator/">Live demo</a> | <a href="https://github.com/abdulazizbalu/ai-campaign-orchestrator">Code</a></p>
+    </td>
+    <td width="50%">
+      <h3>What this shows</h3>
+      <p>AI thinking, full-stack structure, product UX, media strategy, CI, and live demos.</p>
+      <p><a href="mailto:Abdushkin2001@gmail.com">Work with me</a></p>
+    </td>
+  </tr>
+</table>
 
-## Tech Stack
+## Stack I Use
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Python](https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=ffd43b)
+![JavaScript](https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+![TypeScript](https://img.shields.io/badge/TypeScript-020617?style=for-the-badge&logo=typescript&logoColor=60a5fa)
+![React](https://img.shields.io/badge/React-020617?style=for-the-badge&logo=react&logoColor=61dafb)
+![Next.js](https://img.shields.io/badge/Next.js-020617?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=node.js&logoColor=22c55e)
+![FastAPI](https://img.shields.io/badge/FastAPI-020617?style=for-the-badge&logo=fastapi&logoColor=14b8a6)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-020617?style=for-the-badge&logo=postgresql&logoColor=60a5fa)
+![OpenAI](https://img.shields.io/badge/OpenAI-020617?style=for-the-badge&logo=openai&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-020617?style=for-the-badge&logo=docker&logoColor=38bdf8)
+![Vercel](https://img.shields.io/badge/Vercel-020617?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-020617?style=for-the-badge&logo=figma&logoColor=f97316)
 
 </div>
 
-## How I Think
+## Current Focus
 
-- I build AI tools that save time instead of just looking impressive.
-- I like clean product logic: clear inputs, useful outputs, measurable value.
-- I connect code with content strategy, because distribution matters as much as development.
-- I prefer practical automation, simple interfaces, and systems that people can actually use.
+```diff
++ Building AI-powered tools for creators and small businesses
++ Turning content strategy into repeatable systems
++ Shipping full-stack demos with clean logic and live previews
++ Learning more about agents, automation, RAG, evals, and product UX
+```
 
-## GitHub Stats
+## GitHub Energy
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abdulazizbalu&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulazizbalu&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abdulazizbalu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=020617&title_color=22d3ee&icon_color=f59e0b&text_color=e5e7eb" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulazizbalu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=020617&title_color=22d3ee&text_color=e5e7eb" alt="Top languages" />
+
+<br />
+
+<img src="https://github-profile-trophy.vercel.app/?username=abdulazizbalu&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8" alt="GitHub trophies" />
 
 </div>
 
@@ -76,6 +115,8 @@ Digital Media Strategist -> content systems, analytics, campaigns, creator tools
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdulaziz%20Abdujalilov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulaziz-abdujalilov-436a4a250/)
 [![YouTube](https://img.shields.io/badge/YouTube-abdulazizbalu-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@abdulazizbalu)
 [![Telegram](https://img.shields.io/badge/Telegram-abdulazizbalu-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/abdulazizbalu)
-[![GitHub](https://img.shields.io/badge/GitHub-abdulazizbalu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulazizbalu)
+[![Email](https://img.shields.io/badge/Email-Abdushkin2001%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Abdushkin2001@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:f59e0b,55:0f766e,100:020617&text=build%20smart.%20ship%20clean.%20make%20it%20memorable.&fontColor=ffffff&fontSize=18&fontAlignY=72" alt="footer" />
 
 </div>
