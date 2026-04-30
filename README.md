@@ -6,6 +6,7 @@
 
 <br />
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Website-22d3ee?style=for-the-badge&labelColor=020617)](https://abdulazizbalu.github.io/balu-portfolio/)
 [![GitHub followers](https://img.shields.io/github/followers/abdulazizbalu?style=for-the-badge&label=Followers&color=0ea5e9&labelColor=020617)](https://github.com/abdulazizbalu)
 [![Profile views](https://komarev.com/ghpvc/?username=abdulazizbalu&style=for-the-badge&color=0ea5e9&label=Profile%20views)](https://github.com/abdulazizbalu)
 [![Status](https://img.shields.io/badge/Status-Building%20smart%20solutions-22c55e?style=for-the-badge&labelColor=020617)](https://github.com/abdulazizbalu)
@@ -26,43 +27,51 @@ location  Tashkent, Uzbekistan
 
 I like projects where code is not just code. The best work has three parts: a useful system, a clean product experience, and a story people can understand fast.
 
+## Start Here
+
+<div align="center">
+
+<a href="https://abdulazizbalu.github.io/balu-portfolio/"><strong>Open the portfolio website</strong></a>
+
+</div>
+
 ## Featured Portfolio
 
 <table>
   <tr>
     <td width="50%">
-      <h3>AI Prompt Studio</h3>
-      <p>Prompt engineering studio for turning rough ideas into structured AI prompts.</p>
-      <p><a href="https://abdulazizbalu.github.io/ai-prompt-studio/">Live demo</a> | <a href="https://github.com/abdulazizbalu/ai-prompt-studio">Code</a></p>
-    </td>
-    <td width="50%">
-      <h3>Media Command Center</h3>
-      <p>Creator strategy dashboard for ranking ideas and planning campaign weeks.</p>
-      <p><a href="https://abdulazizbalu.github.io/media-command-center/">Live demo</a> | <a href="https://github.com/abdulazizbalu/media-command-center">Code</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Creator Insight Pipeline</h3>
-      <p>Analytics pipeline that turns views, saves, and shares into content decisions.</p>
-      <p><a href="https://abdulazizbalu.github.io/creator-insight-pipeline/">Live demo</a> | <a href="https://github.com/abdulazizbalu/creator-insight-pipeline">Code</a></p>
+      <h3>AI Campaign Orchestrator</h3>
+      <p>Flagship campaign engine with tasks, prompt packs, review gates, risk notes, and Markdown/JSON export.</p>
+      <p><a href="https://abdulazizbalu.github.io/ai-campaign-orchestrator/">Live demo</a> | <a href="https://github.com/abdulazizbalu/ai-campaign-orchestrator">Code</a> | <a href="https://github.com/abdulazizbalu/ai-campaign-orchestrator/releases/tag/v1.0.0">Release</a></p>
     </td>
     <td width="50%">
       <h3>Smart Support Agent API</h3>
-      <p>Node.js support agent API with intent routing and useful fallback answers.</p>
-      <p><a href="https://abdulazizbalu.github.io/smart-support-agent-api/">Live demo</a> | <a href="https://github.com/abdulazizbalu/smart-support-agent-api">Code</a></p>
+      <p>Node.js support agent API with intent routing, knowledge-base answers, and fallback handling.</p>
+      <p><a href="https://abdulazizbalu.github.io/smart-support-agent-api/">Live demo</a> | <a href="https://github.com/abdulazizbalu/smart-support-agent-api">Code</a> | <a href="https://github.com/abdulazizbalu/smart-support-agent-api/releases/tag/v1.0.0">Release</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>AI Campaign Orchestrator</h3>
-      <p>Campaign engine that converts a business goal into AI-ready multi-channel tasks.</p>
-      <p><a href="https://abdulazizbalu.github.io/ai-campaign-orchestrator/">Live demo</a> | <a href="https://github.com/abdulazizbalu/ai-campaign-orchestrator">Code</a></p>
+      <h3>Media Command Center</h3>
+      <p>Creator strategy dashboard for ranking ideas and planning campaign weeks.</p>
+      <p><a href="https://abdulazizbalu.github.io/media-command-center/">Live demo</a> | <a href="https://github.com/abdulazizbalu/media-command-center">Code</a> | <a href="https://github.com/abdulazizbalu/media-command-center/releases/tag/v1.0.0">Release</a></p>
     </td>
     <td width="50%">
-      <h3>What this shows</h3>
-      <p>AI thinking, full-stack structure, product UX, media strategy, CI, and live demos.</p>
-      <p><a href="mailto:Abdushkin2001@gmail.com">Work with me</a></p>
+      <h3>Creator Insight Pipeline</h3>
+      <p>Analytics pipeline that turns views, saves, and shares into content decisions.</p>
+      <p><a href="https://abdulazizbalu.github.io/creator-insight-pipeline/">Live demo</a> | <a href="https://github.com/abdulazizbalu/creator-insight-pipeline">Code</a> | <a href="https://github.com/abdulazizbalu/creator-insight-pipeline/releases/tag/v1.0.0">Release</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>AI Prompt Studio</h3>
+      <p>Prompt engineering studio for turning rough ideas into structured AI prompts.</p>
+      <p><a href="https://abdulazizbalu.github.io/ai-prompt-studio/">Live demo</a> | <a href="https://github.com/abdulazizbalu/ai-prompt-studio">Code</a> | <a href="https://github.com/abdulazizbalu/ai-prompt-studio/releases/tag/v1.0.0">Release</a></p>
+    </td>
+    <td width="50%">
+      <h3>Balu Portfolio</h3>
+      <p>Standalone portfolio website that ties AI, full-stack, and digital media into one story.</p>
+      <p><a href="https://abdulazizbalu.github.io/balu-portfolio/">Live site</a> | <a href="https://github.com/abdulazizbalu/balu-portfolio">Code</a> | <a href="https://github.com/abdulazizbalu/balu-portfolio/releases/tag/v1.0.0">Release</a></p>
     </td>
   </tr>
 </table>
