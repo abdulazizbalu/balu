@@ -24,17 +24,15 @@ Full-Stack Developer     -> frontend, backend, APIs, databases, deployment
 Digital Media Strategist -> content systems, analytics, campaigns, creator tools
 ```
 
-## Portfolio Direction
-
-These are the project tracks I am building and publishing to match my positioning:
+## Featured Portfolio
 
 | Project | Complexity | What it proves |
 | --- | --- | --- |
-| AI Prompt Studio | Beginner-friendly AI tool | Prompt engineering, UX thinking, browser app logic |
-| Media Command Center | Strategy dashboard | Content planning, prioritization, campaign thinking |
-| Creator Insight Pipeline | Data/analytics utility | Metrics analysis, recommendations, clean JS modules |
-| Smart Support Agent API | Backend AI service | HTTP API, intent detection, support automation |
-| AI Campaign Orchestrator | Advanced product engine | Multi-channel planning, AI task orchestration, product architecture |
+| [AI Prompt Studio](https://github.com/abdulazizbalu/ai-prompt-studio) | Beginner-friendly AI tool | Prompt engineering, UX thinking, browser app logic |
+| [Media Command Center](https://github.com/abdulazizbalu/media-command-center) | Strategy dashboard | Content planning, prioritization, campaign thinking |
+| [Creator Insight Pipeline](https://github.com/abdulazizbalu/creator-insight-pipeline) | Data/analytics utility | Metrics analysis, recommendations, clean JS modules |
+| [Smart Support Agent API](https://github.com/abdulazizbalu/smart-support-agent-api) | Backend AI service | HTTP API, intent detection, support automation |
+| [AI Campaign Orchestrator](https://github.com/abdulazizbalu/ai-campaign-orchestrator) | Advanced product engine | Multi-channel planning, AI task orchestration, product architecture |
 
 ## Tech Stack
 
