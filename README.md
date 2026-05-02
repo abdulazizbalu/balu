@@ -2,14 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:0f766e,100:f59e0b&text=Abdulaziz%20Balu&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=AI%20Specialist%20%7C%20Full-Stack%20Developer%20%7C%20LLMOps%20%7C%20Digital%20Media%20Strategist&descSize=18&descAlignY=60&animation=fadeIn" alt="Abdulaziz Balu banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=I+build+AI+tools+that+feel+useful%2C+not+random.;Full-stack+products+%2B+LLMOps+%2B+media+strategy.;Code+for+systems.+DevOps+for+reliability.;Based+in+Tashkent.+Building+for+the+internet." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=I+build+AI+tools+that+feel+useful%2C+not+random.;Full-stack+products+%2B+LLMOps+%2B+media+strategy.;AI+evals.+RAG.+Agents.+Observability.;Code+for+systems.+DevOps+for+reliability." alt="Typing SVG" />
 
 <br />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Website-22d3ee?style=for-the-badge&labelColor=020617)](https://abdulazizbalu.github.io/balu-portfolio/)
 [![GitHub followers](https://img.shields.io/github/followers/abdulazizbalu?style=for-the-badge&label=Followers&color=0ea5e9&labelColor=020617)](https://github.com/abdulazizbalu)
 [![Profile views](https://komarev.com/ghpvc/?username=abdulazizbalu&style=for-the-badge&color=0ea5e9&label=Profile%20views)](https://github.com/abdulazizbalu)
-[![Status](https://img.shields.io/badge/Status-Building%20smart%20solutions-22c55e?style=for-the-badge&labelColor=020617)](https://github.com/abdulazizbalu)
+[![Status](https://img.shields.io/badge/Status-Building%20production--minded%20AI-22c55e?style=for-the-badge&labelColor=020617)](https://github.com/abdulazizbalu)
 
 </div>
 
@@ -20,12 +20,12 @@
 ```txt
 name      Abdulaziz Abdujalilov, aka Balu
 role      AI Specialist + Full-Stack Developer + LLMOps + Digital Media Strategist
-style     practical systems, clean interfaces, sharp content ideas, reliable releases
+style     useful AI systems, clean interfaces, evals, observability, reliable releases
 mission   build tools that save time, explain ideas clearly, and survive production
 location  Tashkent, Uzbekistan
 ```
 
-I like projects where code is not just code. The best work has three parts: a useful system, a clean product experience, and a story people can understand fast. The DevOps layer matters because AI products need reliability, observability, cost control, and rollback plans.
+I like projects where code is not just code. The best work has three parts: a useful system, a clean product experience, and a story people can understand fast. The DevOps layer matters because AI products need reliability, observability, cost control, evals, and rollback plans.
 
 ## Start Here
 
@@ -35,31 +35,31 @@ I like projects where code is not just code. The best work has three parts: a us
 
 </div>
 
-## Featured AI Products
+## Flagship AI Systems
 
 <table>
   <tr>
     <td width="50%">
       <h3>AI Campaign Orchestrator</h3>
-      <p>Flagship campaign engine with tasks, prompt packs, review gates, risk notes, and Markdown/JSON export.</p>
-      <p><a href="https://abdulazizbalu.github.io/ai-campaign-orchestrator/">Live demo</a> | <a href="https://github.com/abdulazizbalu/ai-campaign-orchestrator">Code</a> | <a href="https://github.com/abdulazizbalu/ai-campaign-orchestrator/releases/tag/v1.1.0">Release</a></p>
+      <p>Mini-SaaS campaign system with provider mode, local campaign library, prompt packs, roadmap, review gates, and exports.</p>
+      <p><a href="https://abdulazizbalu.github.io/ai-campaign-orchestrator/">Live demo</a> | <a href="https://github.com/abdulazizbalu/ai-campaign-orchestrator">Code</a> | <a href="https://github.com/abdulazizbalu/ai-campaign-orchestrator/releases/tag/v1.2.0">Release</a></p>
     </td>
     <td width="50%">
-      <h3>Smart Support Agent API</h3>
-      <p>Node.js support agent API with intent routing, knowledge-base answers, and fallback handling.</p>
-      <p><a href="https://abdulazizbalu.github.io/smart-support-agent-api/">Live demo</a> | <a href="https://github.com/abdulazizbalu/smart-support-agent-api">Code</a> | <a href="https://github.com/abdulazizbalu/smart-support-agent-api/releases/tag/v1.1.0">Release</a></p>
+      <h3>AI Eval Lab</h3>
+      <p>Prompt regression tests with datasets, deterministic mock model, quality scoring, and CI gates.</p>
+      <p><a href="https://abdulazizbalu.github.io/ai-eval-lab/">Live demo</a> | <a href="https://github.com/abdulazizbalu/ai-eval-lab">Code</a> | <a href="https://github.com/abdulazizbalu/ai-eval-lab/releases/tag/v1.2.0">Release</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>Media Command Center</h3>
-      <p>Creator strategy dashboard for ranking ideas and planning campaign weeks.</p>
-      <p><a href="https://abdulazizbalu.github.io/media-command-center/">Live demo</a> | <a href="https://github.com/abdulazizbalu/media-command-center">Code</a> | <a href="https://github.com/abdulazizbalu/media-command-center/releases/tag/v1.1.0">Release</a></p>
+      <h3>RAG Knowledge Agent</h3>
+      <p>Knowledge base agent with chunking, mock vector search, cited answers, Docker-ready structure, and tests.</p>
+      <p><a href="https://abdulazizbalu.github.io/rag-knowledge-agent/">Live demo</a> | <a href="https://github.com/abdulazizbalu/rag-knowledge-agent">Code</a> | <a href="https://github.com/abdulazizbalu/rag-knowledge-agent/releases/tag/v1.2.0">Release</a></p>
     </td>
     <td width="50%">
-      <h3>Creator Insight Pipeline</h3>
-      <p>Analytics pipeline that turns views, saves, and shares into content decisions.</p>
-      <p><a href="https://abdulazizbalu.github.io/creator-insight-pipeline/">Live demo</a> | <a href="https://github.com/abdulazizbalu/creator-insight-pipeline">Code</a> | <a href="https://github.com/abdulazizbalu/creator-insight-pipeline/releases/tag/v1.1.0">Release</a></p>
+      <h3>Agent Workflow Studio</h3>
+      <p>Agent workflow engine with planner, tools, memory, human approval gate, retries, and execution logs.</p>
+      <p><a href="https://abdulazizbalu.github.io/agent-workflow-studio/">Live demo</a> | <a href="https://github.com/abdulazizbalu/agent-workflow-studio">Code</a> | <a href="https://github.com/abdulazizbalu/agent-workflow-studio/releases/tag/v1.2.0">Release</a></p>
     </td>
   </tr>
 </table>
@@ -96,10 +96,11 @@ I like projects where code is not just code. The best work has three parts: a us
 ![React](https://img.shields.io/badge/React-020617?style=for-the-badge&logo=react&logoColor=61dafb)
 ![Node.js](https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=node.js&logoColor=22c55e)
 ![FastAPI](https://img.shields.io/badge/FastAPI-020617?style=for-the-badge&logo=fastapi&logoColor=14b8a6)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-020617?style=for-the-badge&logo=postgresql&logoColor=60a5fa)
 ![OpenAI](https://img.shields.io/badge/OpenAI-020617?style=for-the-badge&logo=openai&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-020617?style=for-the-badge&logo=docker&logoColor=38bdf8)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-020617?style=for-the-badge&logo=githubactions&logoColor=38bdf8)
+![RAG](https://img.shields.io/badge/RAG-020617?style=for-the-badge&logo=databricks&logoColor=f59e0b)
+![Evals](https://img.shields.io/badge/AI_Evals-020617?style=for-the-badge&logo=checkmarx&logoColor=22d3ee)
 ![Observability](https://img.shields.io/badge/Observability-020617?style=for-the-badge&logo=prometheus&logoColor=f59e0b)
 
 </div>
@@ -110,7 +111,7 @@ I like projects where code is not just code. The best work has three parts: a us
 + Building AI-powered tools for creators and small businesses
 + Turning content strategy into repeatable systems
 + Shipping full-stack demos with clean logic and live previews
-+ Adding LLMOps, observability, release safety, Docker, and RAG deployment thinking
++ Adding AI evals, RAG, agents, LLMOps, observability, Docker, and release safety
 ```
 
 ## GitHub Energy
