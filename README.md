@@ -114,6 +114,22 @@ I like projects where code is not just code. The best work has three parts: a us
 + Adding AI evals, RAG, agents, LLMOps, observability, Docker, and release safety
 ```
 
+## Field Notes / Gists
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://gist.github.com/abdulazizbalu/3cd84c83c898687af6059fab88e9b007"><strong>AI Prompt Engineering Playbook</strong></a><br />Prompt patterns, schemas, critic loops, and product-ready AI workflow structure.</td>
+    <td width="50%"><a href="https://gist.github.com/abdulazizbalu/30c746dc93f9b751b3b0cc8504ef65b0"><strong>LLM Evaluation Checklist</strong></a><br />A practical quality checklist for testing AI features before shipping.</td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://gist.github.com/abdulazizbalu/fb1082fb28fa4dfc4c98c6da23215ac4"><strong>RAG System Blueprint</strong></a><br />Architecture notes for retrieval, chunking, metadata, citations, and monitoring.</td>
+    <td width="50%"><a href="https://gist.github.com/abdulazizbalu/fdfd6e495363303cd48e79cc5aed4181"><strong>AI DevOps CI/CD Template</strong></a><br />CI/CD structure for AI apps, prompt tests, eval smoke checks, and release safety.</td>
+  </tr>
+  <tr>
+    <td colspan="2"><a href="https://gist.github.com/abdulazizbalu/5384a8934cdbbbed9b7e82559c90e9e0"><strong>Digital Media AI Growth System</strong></a><br />How AI, content strategy, analytics, and full-stack tooling can work as one growth system.</td>
+  </tr>
+</table>
+
 ## GitHub Energy
 
 <div align="center">
