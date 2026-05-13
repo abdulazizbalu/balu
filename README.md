@@ -39,6 +39,13 @@ I like projects where code is not just code. The best work has three parts: a us
 
 <table>
   <tr>
+    <td colspan="2">
+      <h3>Nur — Local AI Office Assistant for Windows</h3>
+      <p>Desktop product. Embedded Gemma 4 via Ollama, glassmorphism UI in Russian and Uzbek. Nine sections: chat with conversation history, email drafts with tone control, long-text summarization, RU/UZ/EN translation, grammar and rewrite, unit/currency/file-size converters, RU and Uzbek transliteration. First-run wizard auto-detects the engine, streams model download with live MB/s and ETA, and supports skip-and-install-later for offline users.</p>
+      <p><a href="https://github.com/abdulazizbalu/nur">Code</a> | <a href="https://github.com/abdulazizbalu/nur/releases">Download installer (.exe)</a> | <a href="https://github.com/abdulazizbalu/nur#readme">Docs</a></p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>AI Campaign Orchestrator</h3>
       <p>Mini-SaaS campaign system with provider mode, local campaign library, prompt packs, roadmap, review gates, and exports.</p>
